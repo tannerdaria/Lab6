@@ -60,7 +60,7 @@ class Tree{
     else{
       leavesStatus = "does not";
     }
-    System.out.println("This is a " + treeName + ".");
+    System.out.println("This is a " + treeName + " tree.");
     
     System.out.println("It is a " + treeType + " and it's leaves are currently " + leafColor + ".");
 
